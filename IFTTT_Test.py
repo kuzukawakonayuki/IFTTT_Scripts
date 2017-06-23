@@ -1,4 +1,4 @@
 import requests
-target_url = 'https://maker.ifttt.com/trigger/{XXXXXXX}/with/key/esNZA0_q9698h1gw9QaAY6VUj9n-6cqD10O_zRgZbmk'
+target_url = 'https://maker.ifttt.com/trigger/Push7_IFTTT/with/key/esNZA0_q9698h1gw9QaAY6PF0mES-A10n9J-pzquQFa'
 r = requests.get(target_url)
 print(r)
